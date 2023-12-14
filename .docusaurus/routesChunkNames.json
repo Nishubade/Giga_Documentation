@@ -56,179 +56,179 @@
     "component": "component---site-src-pages-versions-js-18-b-bfe",
     "config": "config---help-5-e-9-5b3"
   },
-  "/api-181": {
+  "/api-b7d": {
     "component": "component---theme-api-pageac-3-ebb",
-    "docsMetadata": "docsMetadata---api-1-a-4-503"
+    "docsMetadata": "docsMetadata---api-477-3ae"
   },
-  "/api/-4ef": {
+  "/api/-47e": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-054-677",
-    "content": "content---api-b-0-f-bdf"
+    "openapi": "openapi---api-ed-8-777",
+    "content": "content---api-7-f-2-449"
   },
-  "/api/auth-controller-generate-nonce-3c6": {
+  "/api/auth-controller-generate-nonce-900": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-auth-controller-generate-nonce-0-a-2-2a0",
-    "content": "content---api-auth-controller-generate-nonce-3-ba-6a0"
+    "openapi": "openapi---api-auth-controller-generate-nonce-281-84e",
+    "content": "content---api-auth-controller-generate-noncea-14-65e"
   },
-  "/api/auth-controller-refresh-abe": {
+  "/api/auth-controller-refresh-ff4": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-auth-controller-refresh-5-f-5-8bb",
-    "content": "content---api-auth-controller-refresh-2-eb-5d5"
+    "openapi": "openapi---api-auth-controller-refresh-73-f-066",
+    "content": "content---api-auth-controller-refresh-8-ac-f94"
   },
-  "/api/auth-controller-register-e11": {
+  "/api/auth-controller-register-6e2": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-auth-controller-register-44-e-9bd",
-    "content": "content---api-auth-controller-registere-6-a-612"
+    "openapi": "openapi---api-auth-controller-register-7-e-8-fc8",
+    "content": "content---api-auth-controller-register-492-513"
   },
-  "/api/auth-controller-send-otp-eb9": {
+  "/api/auth-controller-send-otp-5ca": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-auth-controller-send-otpe-1-c-fef",
-    "content": "content---api-auth-controller-send-otp-365-b89"
+    "openapi": "openapi---api-auth-controller-send-otpeb-3-6b5",
+    "content": "content---api-auth-controller-send-otp-700-efc"
   },
-  "/api/auth-controller-wallet-login-a31": {
+  "/api/auth-controller-wallet-login-7b7": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-auth-controller-wallet-login-7-e-0-dc7",
-    "content": "content---api-auth-controller-wallet-login-5-a-6-2a1"
+    "openapi": "openapi---api-auth-controller-wallet-logina-72-e6d",
+    "content": "content---api-auth-controller-wallet-loginf-3-c-981"
   },
-  "/api/auth-controller-wallet-register-758": {
+  "/api/auth-controller-wallet-register-1ec": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-auth-controller-wallet-registerfdb-812",
-    "content": "content---api-auth-controller-wallet-registerf-9-a-703"
+    "openapi": "openapi---api-auth-controller-wallet-registerd-6-e-601",
+    "content": "content---api-auth-controller-wallet-registercfd-956"
   },
-  "/api/contribute-data-controller-create-334": {
+  "/api/contribute-data-controller-create-0ec": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-contribute-data-controller-create-1-bb-653",
-    "content": "content---api-contribute-data-controller-create-03-c-dfe"
+    "openapi": "openapi---api-contribute-data-controller-create-134-0e0",
+    "content": "content---api-contribute-data-controller-create-8-e-7-f3c"
   },
-  "/api/contribute-data-controller-find-all-84a": {
+  "/api/contribute-data-controller-find-all-36e": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-contribute-data-controller-find-all-597-63c",
-    "content": "content---api-contribute-data-controller-find-allfa-0-fb5"
+    "openapi": "openapi---api-contribute-data-controller-find-all-93-d-8b0",
+    "content": "content---api-contribute-data-controller-find-allce-1-762"
   },
-  "/api/contribute-data-controller-find-one-251": {
+  "/api/contribute-data-controller-find-one-cba": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-contribute-data-controller-find-one-207-a81",
-    "content": "content---api-contribute-data-controller-find-onebdb-848"
+    "openapi": "openapi---api-contribute-data-controller-find-onec-1-c-e0f",
+    "content": "content---api-contribute-data-controller-find-one-6-f-6-703"
   },
-  "/api/contribute-data-controller-remove-3d8": {
+  "/api/contribute-data-controller-remove-8a5": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-contribute-data-controller-remove-081-10b",
-    "content": "content---api-contribute-data-controller-remove-4-fb-121"
+    "openapi": "openapi---api-contribute-data-controller-removec-46-f88",
+    "content": "content---api-contribute-data-controller-remove-869-205"
   },
-  "/api/contribute-data-controller-update-5a6": {
+  "/api/contribute-data-controller-update-a13": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-contribute-data-controller-update-957-c69",
-    "content": "content---api-contribute-data-controller-update-867-a83"
+    "openapi": "openapi---api-contribute-data-controller-update-253-970",
+    "content": "content---api-contribute-data-controller-updatea-1-d-80f"
   },
-  "/api/contribute-data-controller-validate-7b2": {
+  "/api/contribute-data-controller-validate-4b2": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-contribute-data-controller-validate-623-049",
-    "content": "content---api-contribute-data-controller-validate-8-b-3-e93"
+    "openapi": "openapi---api-contribute-data-controller-validatec-91-962",
+    "content": "content---api-contribute-data-controller-validate-4-a-2-d78"
   },
-  "/api/create-new-user-44e": {
+  "/api/create-new-user-acd": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-create-new-userc-5-d-cc2",
-    "content": "content---api-create-new-user-039-dff"
+    "openapi": "openapi---api-create-new-usercfe-c60",
+    "content": "content---api-create-new-user-3-dd-a7d"
   },
-  "/api/delete-an-user-0cb": {
+  "/api/delete-an-user-ec1": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-delete-an-userf-7-d-172",
-    "content": "content---api-delete-an-user-90-e-407"
+    "openapi": "openapi---api-delete-an-usere-40-b4b",
+    "content": "content---api-delete-an-userc-9-f-4ee"
   },
-  "/api/email-controller-create-d84": {
+  "/api/email-controller-create-3a2": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-email-controller-create-38-c-e59",
-    "content": "content---api-email-controller-create-6-da-8f8"
+    "openapi": "openapi---api-email-controller-create-548-35d",
+    "content": "content---api-email-controller-create-182-678"
   },
-  "/api/email-controller-find-all-e8d": {
+  "/api/email-controller-find-all-7e0": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-email-controller-find-alld-1-a-a4d",
-    "content": "content---api-email-controller-find-all-19-c-a78"
+    "openapi": "openapi---api-email-controller-find-all-5-e-3-659",
+    "content": "content---api-email-controller-find-all-5-a-0-7e0"
   },
-  "/api/email-controller-find-one-365": {
+  "/api/email-controller-find-one-ea4": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-email-controller-find-one-848-e93",
-    "content": "content---api-email-controller-find-oneeb-5-133"
+    "openapi": "openapi---api-email-controller-find-one-8-f-4-1ab",
+    "content": "content---api-email-controller-find-one-457-208"
   },
-  "/api/email-controller-remove-383": {
+  "/api/email-controller-remove-222": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-email-controller-removee-28-335",
-    "content": "content---api-email-controller-remove-8-ab-401"
+    "openapi": "openapi---api-email-controller-remove-735-c95",
+    "content": "content---api-email-controller-remove-996-139"
   },
-  "/api/email-controller-update-26b": {
+  "/api/email-controller-update-0a1": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-email-controller-update-1-a-3-869",
-    "content": "content---api-email-controller-updateeab-270"
+    "openapi": "openapi---api-email-controller-updateb-67-94f",
+    "content": "content---api-email-controller-update-47-a-4b0"
   },
-  "/api/get-an-user-0ce": {
+  "/api/get-an-user-cdd": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-get-an-userf-35-6bc",
-    "content": "content---api-get-an-user-4-e-6-935"
+    "openapi": "openapi---api-get-an-useraf-8-098",
+    "content": "content---api-get-an-userd-71-273"
   },
-  "/api/list-all-user-38e": {
+  "/api/list-all-user-826": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-list-all-user-672-3a5",
-    "content": "content---api-list-all-user-850-61f"
+    "openapi": "openapi---api-list-all-user-935-4ca",
+    "content": "content---api-list-all-userb-11-079"
   },
-  "/api/school-controller-count-schools-9b7": {
+  "/api/school-controller-count-schools-79f": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-count-schoolsf-09-cee",
-    "content": "content---api-school-controller-count-schoolsf-2-c-540"
+    "openapi": "openapi---api-school-controller-count-schools-799-9e1",
+    "content": "content---api-school-controller-count-schoolse-2-e-58f"
   },
-  "/api/school-controller-find-all-698": {
+  "/api/school-controller-find-all-516": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-find-all-3-b-8-aa6",
-    "content": "content---api-school-controller-find-all-424-c4d"
+    "openapi": "openapi---api-school-controller-find-all-4-d-7-ea1",
+    "content": "content---api-school-controller-find-all-139-c97"
   },
-  "/api/school-controller-find-by-country-c99": {
+  "/api/school-controller-find-by-country-3c0": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-find-by-country-6-e-0-ec5",
-    "content": "content---api-school-controller-find-by-country-872-04b"
+    "openapi": "openapi---api-school-controller-find-by-country-31-a-c02",
+    "content": "content---api-school-controller-find-by-country-1-bc-fe1"
   },
-  "/api/school-controller-find-one-0ed": {
+  "/api/school-controller-find-one-cfb": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-find-one-785-946",
-    "content": "content---api-school-controller-find-one-129-a58"
+    "openapi": "openapi---api-school-controller-find-one-6-ca-ece",
+    "content": "content---api-school-controller-find-one-8-e-4-5f2"
   },
-  "/api/school-controller-list-uploads-236": {
+  "/api/school-controller-list-uploads-210": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-list-uploads-317-a40",
-    "content": "content---api-school-controller-list-uploads-392-0a1"
+    "openapi": "openapi---api-school-controller-list-uploads-47-b-f18",
+    "content": "content---api-school-controller-list-uploadse-6-c-1fd"
   },
-  "/api/school-controller-mint-batch-school-013": {
+  "/api/school-controller-mint-batch-school-44f": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-mint-batch-schoole-51-549",
-    "content": "content---api-school-controller-mint-batch-schoolf-13-71f"
+    "openapi": "openapi---api-school-controller-mint-batch-school-02-b-825",
+    "content": "content---api-school-controller-mint-batch-schoola-11-a67"
   },
-  "/api/school-controller-mint-school-2b6": {
+  "/api/school-controller-mint-school-6cc": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-mint-schoolccb-3ef",
-    "content": "content---api-school-controller-mint-school-431-d8b"
+    "openapi": "openapi---api-school-controller-mint-school-891-f04",
+    "content": "content---api-school-controller-mint-school-794-efc"
   },
-  "/api/school-controller-queue-63f": {
+  "/api/school-controller-queue-aae": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-queue-6-aa-128",
-    "content": "content---api-school-controller-queuef-32-217"
+    "openapi": "openapi---api-school-controller-queuea-6-d-f72",
+    "content": "content---api-school-controller-queue-9-c-7-ec8"
   },
-  "/api/school-controller-remove-all-ec3": {
+  "/api/school-controller-remove-all-ac7": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-remove-all-0-c-8-759",
-    "content": "content---api-school-controller-remove-allbe-5-859"
+    "openapi": "openapi---api-school-controller-remove-all-898-4b2",
+    "content": "content---api-school-controller-remove-all-502-d59"
   },
-  "/api/school-controller-update-541": {
+  "/api/school-controller-update-8cb": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-update-2-b-5-2cd",
-    "content": "content---api-school-controller-update-53-f-cbb"
+    "openapi": "openapi---api-school-controller-update-760-044",
+    "content": "content---api-school-controller-update-4-c-7-109"
   },
-  "/api/school-controller-upload-file-4bf": {
+  "/api/school-controller-upload-file-6c2": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-school-controller-upload-filef-06-4c5",
-    "content": "content---api-school-controller-upload-filee-4-a-302"
+    "openapi": "openapi---api-school-controller-upload-file-00-a-218",
+    "content": "content---api-school-controller-upload-file-2-b-3-484"
   },
-  "/api/update-an-user-716": {
+  "/api/update-an-user-684": {
     "component": "component---theme-api-item-4-c-5-a29",
-    "openapi": "openapi---api-update-an-user-1-fc-b67",
-    "content": "content---api-update-an-userfd-7-f64"
+    "openapi": "openapi---api-update-an-user-639-990",
+    "content": "content---api-update-an-user-330-e33"
   },
   "/docs/next-f7d": {
     "component": "component---theme-doc-page-1-be-9be",

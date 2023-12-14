@@ -75,176 +75,176 @@ export default [
   },
   {
     path: '/api',
-    component: ComponentCreator('/api','181'),
+    component: ComponentCreator('/api','b7d'),
     routes: [
       {
         path: '/api/',
-        component: ComponentCreator('/api/','4ef'),
+        component: ComponentCreator('/api/','47e'),
         exact: true
       },
       {
         path: '/api/auth-controller-generate-nonce',
-        component: ComponentCreator('/api/auth-controller-generate-nonce','3c6'),
+        component: ComponentCreator('/api/auth-controller-generate-nonce','900'),
         exact: true
       },
       {
         path: '/api/auth-controller-refresh',
-        component: ComponentCreator('/api/auth-controller-refresh','abe'),
+        component: ComponentCreator('/api/auth-controller-refresh','ff4'),
         exact: true
       },
       {
         path: '/api/auth-controller-register',
-        component: ComponentCreator('/api/auth-controller-register','e11'),
+        component: ComponentCreator('/api/auth-controller-register','6e2'),
         exact: true
       },
       {
         path: '/api/auth-controller-send-otp',
-        component: ComponentCreator('/api/auth-controller-send-otp','eb9'),
+        component: ComponentCreator('/api/auth-controller-send-otp','5ca'),
         exact: true
       },
       {
         path: '/api/auth-controller-wallet-login',
-        component: ComponentCreator('/api/auth-controller-wallet-login','a31'),
+        component: ComponentCreator('/api/auth-controller-wallet-login','7b7'),
         exact: true
       },
       {
         path: '/api/auth-controller-wallet-register',
-        component: ComponentCreator('/api/auth-controller-wallet-register','758'),
+        component: ComponentCreator('/api/auth-controller-wallet-register','1ec'),
         exact: true
       },
       {
         path: '/api/contribute-data-controller-create',
-        component: ComponentCreator('/api/contribute-data-controller-create','334'),
+        component: ComponentCreator('/api/contribute-data-controller-create','0ec'),
         exact: true
       },
       {
         path: '/api/contribute-data-controller-find-all',
-        component: ComponentCreator('/api/contribute-data-controller-find-all','84a'),
+        component: ComponentCreator('/api/contribute-data-controller-find-all','36e'),
         exact: true
       },
       {
         path: '/api/contribute-data-controller-find-one',
-        component: ComponentCreator('/api/contribute-data-controller-find-one','251'),
+        component: ComponentCreator('/api/contribute-data-controller-find-one','cba'),
         exact: true
       },
       {
         path: '/api/contribute-data-controller-remove',
-        component: ComponentCreator('/api/contribute-data-controller-remove','3d8'),
+        component: ComponentCreator('/api/contribute-data-controller-remove','8a5'),
         exact: true
       },
       {
         path: '/api/contribute-data-controller-update',
-        component: ComponentCreator('/api/contribute-data-controller-update','5a6'),
+        component: ComponentCreator('/api/contribute-data-controller-update','a13'),
         exact: true
       },
       {
         path: '/api/contribute-data-controller-validate',
-        component: ComponentCreator('/api/contribute-data-controller-validate','7b2'),
+        component: ComponentCreator('/api/contribute-data-controller-validate','4b2'),
         exact: true
       },
       {
         path: '/api/create-new-user',
-        component: ComponentCreator('/api/create-new-user','44e'),
+        component: ComponentCreator('/api/create-new-user','acd'),
         exact: true
       },
       {
         path: '/api/delete-an-user',
-        component: ComponentCreator('/api/delete-an-user','0cb'),
+        component: ComponentCreator('/api/delete-an-user','ec1'),
         exact: true
       },
       {
         path: '/api/email-controller-create',
-        component: ComponentCreator('/api/email-controller-create','d84'),
+        component: ComponentCreator('/api/email-controller-create','3a2'),
         exact: true
       },
       {
         path: '/api/email-controller-find-all',
-        component: ComponentCreator('/api/email-controller-find-all','e8d'),
+        component: ComponentCreator('/api/email-controller-find-all','7e0'),
         exact: true
       },
       {
         path: '/api/email-controller-find-one',
-        component: ComponentCreator('/api/email-controller-find-one','365'),
+        component: ComponentCreator('/api/email-controller-find-one','ea4'),
         exact: true
       },
       {
         path: '/api/email-controller-remove',
-        component: ComponentCreator('/api/email-controller-remove','383'),
+        component: ComponentCreator('/api/email-controller-remove','222'),
         exact: true
       },
       {
         path: '/api/email-controller-update',
-        component: ComponentCreator('/api/email-controller-update','26b'),
+        component: ComponentCreator('/api/email-controller-update','0a1'),
         exact: true
       },
       {
         path: '/api/get-an-user',
-        component: ComponentCreator('/api/get-an-user','0ce'),
+        component: ComponentCreator('/api/get-an-user','cdd'),
         exact: true
       },
       {
         path: '/api/list-all-user',
-        component: ComponentCreator('/api/list-all-user','38e'),
+        component: ComponentCreator('/api/list-all-user','826'),
         exact: true
       },
       {
         path: '/api/school-controller-count-schools',
-        component: ComponentCreator('/api/school-controller-count-schools','9b7'),
+        component: ComponentCreator('/api/school-controller-count-schools','79f'),
         exact: true
       },
       {
         path: '/api/school-controller-find-all',
-        component: ComponentCreator('/api/school-controller-find-all','698'),
+        component: ComponentCreator('/api/school-controller-find-all','516'),
         exact: true
       },
       {
         path: '/api/school-controller-find-by-country',
-        component: ComponentCreator('/api/school-controller-find-by-country','c99'),
+        component: ComponentCreator('/api/school-controller-find-by-country','3c0'),
         exact: true
       },
       {
         path: '/api/school-controller-find-one',
-        component: ComponentCreator('/api/school-controller-find-one','0ed'),
+        component: ComponentCreator('/api/school-controller-find-one','cfb'),
         exact: true
       },
       {
         path: '/api/school-controller-list-uploads',
-        component: ComponentCreator('/api/school-controller-list-uploads','236'),
+        component: ComponentCreator('/api/school-controller-list-uploads','210'),
         exact: true
       },
       {
         path: '/api/school-controller-mint-batch-school',
-        component: ComponentCreator('/api/school-controller-mint-batch-school','013'),
+        component: ComponentCreator('/api/school-controller-mint-batch-school','44f'),
         exact: true
       },
       {
         path: '/api/school-controller-mint-school',
-        component: ComponentCreator('/api/school-controller-mint-school','2b6'),
+        component: ComponentCreator('/api/school-controller-mint-school','6cc'),
         exact: true
       },
       {
         path: '/api/school-controller-queue',
-        component: ComponentCreator('/api/school-controller-queue','63f'),
+        component: ComponentCreator('/api/school-controller-queue','aae'),
         exact: true
       },
       {
         path: '/api/school-controller-remove-all',
-        component: ComponentCreator('/api/school-controller-remove-all','ec3'),
+        component: ComponentCreator('/api/school-controller-remove-all','ac7'),
         exact: true
       },
       {
         path: '/api/school-controller-update',
-        component: ComponentCreator('/api/school-controller-update','541'),
+        component: ComponentCreator('/api/school-controller-update','8cb'),
         exact: true
       },
       {
         path: '/api/school-controller-upload-file',
-        component: ComponentCreator('/api/school-controller-upload-file','4bf'),
+        component: ComponentCreator('/api/school-controller-upload-file','6c2'),
         exact: true
       },
       {
         path: '/api/update-an-user',
-        component: ComponentCreator('/api/update-an-user','716'),
+        component: ComponentCreator('/api/update-an-user','684'),
         exact: true
       }
     ]
